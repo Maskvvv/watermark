@@ -1,6 +1,7 @@
 # Watermark
 
 一个纯前端（本地浏览器端）给图片添加水印的小工具：不上传、快且安全，支持移动端使用，界面清爽好看。
+<img width="381" height="820" alt="image" src="https://github.com/user-attachments/assets/f8a370cf-a48b-44df-a966-917d9e55cb9d" />
 
 ## 功能特性
 - 纯前端 Canvas 处理：图片不会上传到服务器，保障隐私
