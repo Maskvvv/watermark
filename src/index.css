@@ -18,3 +18,27 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+.page-container {
+  padding: 24px 16px;
+  max-width: 1040px;
+  margin: 0 auto;
+}
+.page-title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.card {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+:root {
+  --primary:#1B9AF7;
+}
+@media (max-width: 768px) {
+  .page-title { font-size: 18px; }
+  .page-container { padding: 16px 12px; }
+}
